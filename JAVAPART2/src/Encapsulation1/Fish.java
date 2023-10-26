@@ -12,6 +12,7 @@ public class Fish {
 //	}
 	public void m2() {
 		System.out.println("Fises are lives happily");
+		System.out.println("Bye");
 	}
 	
 }

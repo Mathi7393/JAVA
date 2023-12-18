@@ -6,6 +6,7 @@ public class School2 {
 		Son2 s2=new Son2();
 		s2.SchoolFees2();
 		s2.Salary();
+		System.out.println(s2.pension);
 //		s2.pension();
 //		Father f=new Father();
 //		f.Salary();
